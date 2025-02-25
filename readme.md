@@ -1,6 +1,6 @@
 # media
 
-![Screen shot](img/one.jpg)
+![Screen shot](/Users/appleworld/Documents/web/8/img/one.png)
 ![Screen shot](img/tow.png)
 ![Screen shot](img/three.png)
 ![Screen shot](img/for.png)
