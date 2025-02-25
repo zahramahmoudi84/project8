@@ -1,2 +1,2 @@
 # media
-![ screen shot](img/yek.png)
+![Screen shot](img/yek.png)
