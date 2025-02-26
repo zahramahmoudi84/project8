@@ -1,2 +1,2 @@
 # media
-![Screen shot](web/8/yek.png)
+![Screen shot](yek.png)
